@@ -59,4 +59,4 @@ This system was collaboratively developed by:
 1. Make sure Python 3 is installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tuition-centre-management.git
+   git clone https://github.com/1evx/Brilliant-Tuition-Centre.git
